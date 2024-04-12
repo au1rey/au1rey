@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @au1rey
 - 👀 I’m interested in multiplayer video games, coding, programming.
-- 🌱 I’m currently learning programming in c++
+- 🌱 I’m currently learning programming in c++, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saidelaudrey@gmail.com
 

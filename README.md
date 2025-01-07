@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @au1rey
-- 👀 I’m interested in multiplayer video games, coding, programming.
-- 🌱 I’m currently learning programming in c++, c#, java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me saidelaudrey@gmail.com
+- I am a Sophomore Computer Science major at SNHU
+- 🌱 I’m currently learning programming in C++, C#, Java, R
+- 📫 How to reach me saidelaudrey@gmail.com or connect with me at my LinkedIn!
+- https://www.linkedin.com/feed/ 
 
 <!---
 au1rey/au1rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

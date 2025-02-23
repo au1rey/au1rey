@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Audrey!
 - I am a Sophomore Computer Science major at SNHU
 - 🌱 I’m currently learning programming in C++, C#, Java, R
-- 📫 How to reach me saidelaudrey@gmail.com or connect with me at my LinkedIn!
+- 📫 How to reach me audrey.saidel@snhu.edu or connect with me at my LinkedIn!
 - https://www.linkedin.com/feed/
 - Checkout my Github Pages! https://au1rey.github.io/
 <!---

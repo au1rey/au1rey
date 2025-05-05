@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Audrey!
-- I am a Sophomore Computer Science major at SNHU
-- 🌱 I’m currently learning programming in C++, C#, Java, R
-- 📫 How to reach me audrey.saidel@snhu.edu or connect with me at my LinkedIn!
-- https://www.linkedin.com/feed/
-- Checkout my Github Pages! https://au1rey.github.io/
-<!---
-au1rey/au1rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Audrey Saidel!
+- I am a Junior Computer Science major at SNHU
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- Checkout my [Github Pages!](au1rey.github.io)
+
+## Currently Working On
+
+## Project Showc

@@ -20,6 +20,8 @@
 
 ## Currently Working On
 
+### Book Reccomendator
+
 ## Project Showcase
 
 ### YesChef

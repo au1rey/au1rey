@@ -36,5 +36,10 @@
 ## Project Showcase
 
 ### YesChef
+☆ Collaboratively utilized Android Studio and Java to create recipe app using AGILE methodology
 
+☆ [Repository Link](https://github.com/Austin-bryan/YesChef)
 ### Student Performance Analysis
+☆ Used R to build machine learning models to predict student grade class performance
+
+☆ [Repository Link](https://github.com/au1rey/MAT434)

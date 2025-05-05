@@ -5,6 +5,8 @@
  
  ☆ Learning every day, one bug at a time
 
+ ☆ Reach me at audrey.saidel@snhu.edu
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-saidel-33863b294/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://au1rey.github.io)
 

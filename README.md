@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Audrey Saidel!
- ☆ Junior *Computer Science Major* at SNHU, concentration in *Machine Learning*
+ ☆ Junior **Computer Science Major** at SNHU, concentration in *Machine Learning*
  
  ☆  Passionate About *Meaningful* Tech
  

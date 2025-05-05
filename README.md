@@ -24,6 +24,8 @@
 [![Lucidchart](https://img.shields.io/badge/Lucidchart-FA8000?style=for-the-badge&logo=lucidchart&logoColor=white)](https://www.lucidchart.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/download/rstudio-desktop/)
+
 
 ## Currently Working On
 

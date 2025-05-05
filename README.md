@@ -32,7 +32,9 @@
 ## Currently Working On
 
 ### Book Recommender
+☆ Focused on utilizing machine learning and Google Books API to recommend books for readers based on their history.
 
+☆ [Repository Link](https://github.com/au1rey/Book-Recommender)
 ## Project Showcase
 
 ### YesChef
